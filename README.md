@@ -12,6 +12,15 @@ React-based frontend for product management built with Next.js, TypeScript, and 
 - React Hook Form + Zod
 - Axios
 
+## References & Acknowledgements
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Shadcn UI Documentation](https://ui.shadcn.com)
+- [TanStack Query Documentation](https://tanstack.com/query/latest)
+- [React Hook Form Documentation](https://react-hook-form.com)
+- [Zod Documentation](https://zod.dev)
+- AI Assistance: Claude (Anthropic) — used for guidance and code review. All code is understood and written by the candidate.
+
 ## Setup & Installation
 
 ### Prerequisites
